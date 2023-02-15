@@ -1,0 +1,27 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Nodejs CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carnificis/README-Generator.git"
+  },
+  "keywords": [
+    "Node",
+    "inquirer",
+    "fs"
+  ],
+  "author": "Jack Kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carnificis/README-Generator/issues"
+  },
+  "homepage": "https://github.com/Carnificis/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
