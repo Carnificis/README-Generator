@@ -54,7 +54,7 @@ const questions = [
 function start(){
     inquirer.prompt(questions)
     .then(response => {
-        console.log(response)
+       // console.log(response)
         generateMarkDown("README.md",response)
     })
 }

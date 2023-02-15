@@ -1,43 +1,45 @@
 
-# Project: ty
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+# Project: gh
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+
+
 
 ## Table of Contents
-- [Project: ty](#project-ty)
-  - [Table of Contents](#table-of-contents)
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Contributor](#contributor)
-    - [Testing](#testing)
-    - [Usage](#usage)
-    - [Github](#github)
-    - [Email](#email)
-    - [License](#license)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Contributor](#contributor)
+4. [Testing](#testing)
+5. [Usage](#usage)
+6. [Github](#github)
+7. [Email](#email)
+8. [License](#license)
 
 
 
 ### Description
-ty
+gh
 
 ### Installation
-ty
+gh
 
-### Contributor
-undefined
+### Project Contributor
+gh
 
 ### Testing
-ty
-$
+gh
 ### Usage
-ty
+gh
 
 ### Github
-ty
+gh
 
 ### Email
-ty
+Feel free to reach me at 
+gh
+for any questions regarding this project.
 
 ### License
-MIT
+ISC
 [License Info](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 

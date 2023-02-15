@@ -1,5 +1,5 @@
 function content(data){
-    console.log(data)
+    // console.log(data)
     return `
 
 # Project: ${data.title}
