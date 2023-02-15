@@ -1,8 +1,11 @@
 function content(data){
     console.log(data)
     return `
+
 # Project: ${data.title}
 ${renderBadge(data.license)}
+
+
 
 ## Table of Contents
 1. [Description](#description)
@@ -22,12 +25,11 @@ ${data.description}
 ### Installation
 ${data.installation}
 
-### Contributor
-${data.contributor}
+### Project Contributor
+${data.projectcontributor}
 
 ### Testing
 ${data.testing}
-$
 ### Usage
 ${data.usage}
 
@@ -35,7 +37,9 @@ ${data.usage}
 ${data.github}
 
 ### Email
+Feel free to reach me at 
 ${data.email}
+for any questions regarding this project.
 
 ### License
 ${data.license}
